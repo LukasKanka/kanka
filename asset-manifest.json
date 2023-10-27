@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kanka/static/css/main.073c9b0a.css",
-    "main.js": "/kanka/static/js/main.41edc03c.js",
+    "main.js": "/kanka/static/js/main.e19907d8.js",
     "static/js/787.9a1f09c9.chunk.js": "/kanka/static/js/787.9a1f09c9.chunk.js",
     "static/media/logo.svg": "/kanka/static/media/logo.489fff331062edd8fa43c8c15eee832e.svg",
     "index.html": "/kanka/index.html",
     "main.073c9b0a.css.map": "/kanka/static/css/main.073c9b0a.css.map",
-    "main.41edc03c.js.map": "/kanka/static/js/main.41edc03c.js.map",
+    "main.e19907d8.js.map": "/kanka/static/js/main.e19907d8.js.map",
     "787.9a1f09c9.chunk.js.map": "/kanka/static/js/787.9a1f09c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.41edc03c.js"
+    "static/js/main.e19907d8.js"
   ]
 }
